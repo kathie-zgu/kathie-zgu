@@ -24,7 +24,7 @@
 - Python, SQL
 - NLP, CV
 - Jupiter, Airflow, Git, Pandas, Scikit-learn, NumPy, Matplotlib, Seaborn, Pipeline,PySpark, Hadoop, Wandb
-- Pytorch, Kerras, Huggingface, Transformer, Nltk, RNN
+- Pytorch, Keras, Huggingface, Transformer, Nltk, RNN
 
 🔭 В области DL меня особенно привлекает NLP:
 - Понимаю основные концепции NLP и ML, включая техники обработки текста, классификации, извлечения информации, генерации текста.
